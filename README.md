@@ -26,5 +26,8 @@ This source repository is the code for the Arduino basics tutorial. This tutoria
 19. Light Cup
 20. Buzzor
 
+# NaverTV
+[Make+Code](https://tv.naver.com/makecode)
+
 # Youtube
 [Make+Code](https://www.youtube.com/channel/UCTLcLkC6GUKlGiKG3b_7PAg?sub_confirmation=1)
